@@ -1,0 +1,27 @@
+{
+  "name": "googlesheets-reader",
+  "version": "0.0.1",
+  "description": "read rows from a Google Spreadsheet and convert to JSON documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bradoyler/googlesheets-reader.git"
+  },
+  "keywords": [
+    "google",
+    "spreadsheet",
+    "json"
+  ],
+  "author": "Brad Oyler <bradoyler@gmail.com> (github.com/bradoyler)",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "bugs": {
+    "url": "https://github.com/bradoyler/googlesheets-reader/issues"
+  },
+  "homepage": "https://github.com/bradoyler/googlesheets-reader"
+}
