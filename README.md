@@ -1,3 +1,6 @@
+## Deprecation Notice: this uses v3 of the google spreadsheets API  
+New development @ https://github.com/bradoyler/googlesheet-to-json
+
 # googlesheets-reader
 
 Node.js library to read rows from a Google Spreadsheet and convert to JSON documents.
